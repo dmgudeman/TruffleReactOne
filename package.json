@@ -2,7 +2,7 @@
   "name": "react-box",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dmgudeman/TruffleReactOne",
+  "homepage": "https://dmgudeman.github.io/TruffleReactOne",
   "devDependencies": {
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
@@ -52,7 +52,6 @@
   "dependencies": {
     "bignumber.js": "^6.0.0",
     "dotenv": "^2.0.0",
-    "gh-pages": "^1.1.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
